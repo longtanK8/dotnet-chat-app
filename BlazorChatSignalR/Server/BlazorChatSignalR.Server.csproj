@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Client\BlazorChatSignalR.Client.csproj" />
     <ProjectReference Include="..\Shared\BlazorChatSignalR.Shared.csproj" />
   </ItemGroup>
 
